@@ -1,0 +1,31 @@
+{
+	"name": "information",
+	"events": [
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-touched-object",
+					"objectClass": "Touch",
+					"sid": 134188819446306,
+					"parameters": {
+						"object": "backInformation",
+						"type": "end"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 230776165827351,
+					"parameters": {
+						"layout": "index"
+					}
+				}
+			],
+			"sid": 812770235880873
+		}
+	],
+	"sid": 891932874289250
+}

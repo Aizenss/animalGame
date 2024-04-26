@@ -1,0 +1,66 @@
+{
+	"name": "badak",
+	"plugin-id": "Sprite",
+	"sid": 236481789713362,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 201,
+						"height": 218,
+						"originX": 0.5,
+						"originY": 0.5,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"imageSpriteId": 3094994,
+						"collisionPoly": {
+							"points": [
+								0.39303482587064675,
+								0,
+								0.6368159203980099,
+								0.0045871559633027525,
+								0.7810945273631841,
+								0.05504587155963303,
+								0.9651741293532339,
+								0.24770642201834864,
+								1,
+								0.3623853211009174,
+								1,
+								0.46788990825688076,
+								0.835820895522388,
+								0.963302752293578,
+								0.06467661691542288,
+								0.8669724770642202,
+								0,
+								0.4724770642201835,
+								0.004975124378109453,
+								0.3348623853211009,
+								0.03482587064676617,
+								0.24770642201834864,
+								0.05970149253731343,
+								0.2018348623853211
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1,
+						"tag": ""
+					}
+				],
+				"sid": 864417248733012,
+				"name": "Animation 1",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}
